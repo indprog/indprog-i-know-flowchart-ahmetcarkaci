@@ -1,0 +1,5 @@
+Input: Check if it is raining
+Decision: Is it raining?
+If yes, take an umbrella.
+if no, do not take an umbrella.
+Output: Umbrella or no umbrella
