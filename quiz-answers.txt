@@ -1,18 +1,3 @@
-Why do programmers typically use a repository for their software projects?
-1. To keep track of changes - Correct Answer, so that it's possible to go back and work with the same code if needed.
-2. To make code run faster
-3. To backup their code in the cloud
-4. To replace the need for testing
-
-Which of the following is/are correct?
-1. A start block can have multiple flowlines going out of it. - False
-2. An end block can have multiple flowlines going out of it. - False
-3. A condition can be nested in another condition. - True 
-4. A compound condition tests multiple conditions at once. - True
-5. A condition has usually two flowlines going out of it, one for true and one for false. - True
-
-If we want to count from 1 to 10 in a flowchart, which of the following to we typically use?
-1. Variable - The numbers change and it needs to remember where the count is at to countiue from where it left off.
-2. Condition
-3. Process
-4. Terminal
+1
+3,4,5
+1,2,3
